@@ -1,0 +1,38 @@
+html {
+  background: url("backpic.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.App {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.imagee {
+  margin: 50px 30px;
+}
+img {
+  width: 300px;
+  padding: 0 0;
+  border-radius: 20px;
+  border: 5px solid yellowgreen;
+}
+.ecrit {
+  font-size: larger;
+  display: flex;
+  font-family: sans-serif;
+}
+h2 {
+  border: 6px solid rgb(4, 19, 151);
+  color: rgb(4, 19, 151);
+  font-family: sans-serif;
+  background-color: white;
+}
+.parag {
+  width: 100%;
+  margin: 30px 50px;
+}
